@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jennifer-m-morrison
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning React and the MERN stack
 - 💞️ I’m looking to collaborate on website design projects
 - 📫 How to reach me jmmorrison2@my.waketech.edu
 
